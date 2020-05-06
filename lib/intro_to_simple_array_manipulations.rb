@@ -12,4 +12,5 @@ end
 
 def pop_with_args(array)
   new_array = array[2..3]
+  array.size = 2
 end
