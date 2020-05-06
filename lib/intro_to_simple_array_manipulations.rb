@@ -12,6 +12,5 @@ end
 
 def pop_with_args(array)
   new_array = array[2..3]
-  array.length(-2)
   new_array
 end
